@@ -19,7 +19,8 @@ I am a string literal
 ... line
 ....placed inside triple double quotes""")
 # OUTPUT
-Screenshot 2025-09-02 092052
+<img width="1189" height="462" alt="image" src="https://github.com/user-attachments/assets/2f42e607-8df7-4ea1-93a6-a04ed9d22b11" />
+
 # RESULT
 The program prints a multiline string using both triple single (''') and triple double (""") quotes.
 
@@ -39,7 +40,9 @@ b=float(input())
 print(a,b)
 
 # OUTPUT
-Screenshot 2025-09-02 093812
+<img width="1170" height="310" alt="image" src="https://github.com/user-attachments/assets/8a2c2188-e27a-4dcc-be61-3059dcc01645" />
+
+
 # RESULT
 The program successfully prints the integer and float literals 10,3.14.
 
@@ -69,7 +72,8 @@ print(a >= b)
 # a <= b is True
 print(a <= b)
 # OUTPUT
-Screenshot 2025-09-02 174539
+<img width="1196" height="353" alt="image" src="https://github.com/user-attachments/assets/e9247d7b-9677-4e95-aba8-32cef1f01ff9" />
+
 # RESULT
 Thus, the Python program for comparing two numbers using all relational operators is successfully executed and the above results are obtained.
 
@@ -94,7 +98,8 @@ if num % 2==0:
 else:
    print(num,"is NOT an Even number")
 # OUTPUT
-Screenshot 2025-09-02 180605
+<img width="1057" height="327" alt="image" src="https://github.com/user-attachments/assets/5205ed0c-bbe4-4579-9b8e-b56a012a79a5" />
+
 # RESULT
 A Python program to check whether the given character is a vowel or not using if..else statement has been implemented and executed successfully.
 
@@ -114,6 +119,7 @@ num3 = int(input())
 min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
 print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 # OUTPUT
-Screenshot 2025-09-02 181914
+<img width="1194" height="417" alt="image" src="https://github.com/user-attachments/assets/22b9af01-6bc4-4126-9f18-de227bb02da3" />
+
 # RESULT
 Thus the python program for finding a minimum of three numbers has been implemented and executed successfully.
