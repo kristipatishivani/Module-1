@@ -16,19 +16,18 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222060126
+# Name-Kristipati Shivani
 # Write your code here
 
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())
-
 min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
 print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
 
 ## RESULT
+Thus the python program for finding a minimum of three numbers has been implemented and executed successfully.
