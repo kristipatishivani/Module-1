@@ -16,10 +16,24 @@ To write a Python program for adding two complex numbers, and get the user input
 # Reg.No-
 #Name-
 #Write your code here
-
+a = 13
+b = 33
+# a > b is False
+print(a > b)
+# a < b is True
+print(a < b)
+# a == b is False
+print(a == b)
+# a != b is True
+print(a != b)
+# a >= b is False
+print(a >= b)
+# a <= b is True
+print(a <= b)
 ```
 
 ## OUTPUT
+<img width="1196" height="353" alt="image" src="https://github.com/user-attachments/assets/2fd63b26-eaea-4beb-99d4-2f2548850c8b" />
 
 
 ## RESULT
